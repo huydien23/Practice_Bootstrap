@@ -1,7 +1,17 @@
 .navbar-brand img{
-  width: 140px;
+  width: 150px;
 }
 
 .main-header {
    padding-top: 80px;
+}
+
+.subscribe {
+  background-color: #4588b4;
+  padding: 50px 0;
+}
+
+.brand-icon img {
+  width: 200px;
+  
 }
